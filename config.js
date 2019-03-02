@@ -1,5 +1,5 @@
 exports.TOKEN = '';
 
-exports.PREFIX = 'm!';
+exports.PREFIX = 'demi';
 
 exports.GOOGLE_API_KEY = '';
